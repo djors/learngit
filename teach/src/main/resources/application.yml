@@ -17,4 +17,4 @@ spring:
       max-wait: 60000
       time-between-eviction-runs-millis: 60000
       min-evictable-idle-time-millis: 300000
-      async-init: true
+      async-init:
